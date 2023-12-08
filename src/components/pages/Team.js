@@ -88,7 +88,7 @@ function Team() {
                 />
                 <div className="card-body">
                   <h5 className="card-title" style={{ fontSize: "25px" }}>
-                    DR. SATYAM AGARWAL
+                    Dr. SATYAM AGARWAL
                   </h5>
                   <p className="card-text" style={{ fontSize: "20px" }}>
                     Assistant Professor,
@@ -172,7 +172,7 @@ function Team() {
                 />
                 <div className="card-body">
                   <h5 className="card-title" style={{ fontSize: "25px" }}>
-                    Sagnik Bhatacharya
+                   Sagnik Bhattacharyya
                   </h5>
                   <p className="card-text" style={{ fontSize: "20px" }}>
                     President of RSF
@@ -462,7 +462,7 @@ function Team() {
                 />
                 <div className="card-body">
                   <h5 className="card-title" style={{ fontSize: "25px" }}>
-                    Annadhu
+                  Anandhu
                   </h5>
                   <p className="card-text" style={{ fontSize: "20px" }}>
                   Coordinator <br/> Publicity
